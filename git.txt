@@ -1,0 +1,5 @@
+Comandos GIT:
+1) git init: Iniciar repo
+2) git add .: Añadir a la caja
+3) git commit -m : Etiquetar la caja
+4) git log --oneline: Ver etiquetados
